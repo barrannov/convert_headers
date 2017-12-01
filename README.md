@@ -1,5 +1,6 @@
 # Convert Headers to Dictionary
 This function allows you automatically convert Request/Response Headears to dictionary.
+
 You just need to copy Headers, run the program, which will replace Headers on Dictionary right in your clipboard. 
 And you can just past it anywhere you want.
 
